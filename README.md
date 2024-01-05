@@ -41,7 +41,7 @@ docker-compose build
 |DELETE|/times/{id}| Excluir um time pelo id|
 |PUT|/times| 	Altera um time|
 |POST|/times| 	Salva um time|
-|GET| /times| 	lista todos os times paginado|
+|GET| /times| 	Lista todos os times paginado|
 |GET|/times/{id}| 	Procura o time pelo id|
 |GET|/times/find| 	Procura o time pelo nome|
 |GET|/times/by-id/{id}| 	Procura o time pelo id, necessita de autorização|
