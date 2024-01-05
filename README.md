@@ -4,7 +4,7 @@
   #Spring-Boot-API-Times
 
 ## :page_with_curl:Sobre
-- Projeto, criado como parte dos meus estudos, tem como principal propósito a aplicação prática dos meus conhecimentos no desenvolvimento back-end.
+- Projeto, criado como parte dos meus estudos, tem como principal propósito a aplicação prática dos meus conhecimentos no desenvolvimento back-end. O sistema permite cadastrar time, alterar, deletar e listar.
 
 
 ## :bookmark_tabs:Dependências
