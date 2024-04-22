@@ -1,7 +1,4 @@
-<details id="pt">
-  <summary>PT/BR:brazil:</summary>
-  
-  #Spring-Boot-API-Times
+   #Spring-Boot-API-Times
 
 ## :page_with_curl:Sobre
 - Projeto, criado como parte dos meus estudos, tem como principal propósito a aplicação prática dos meus conhecimentos no desenvolvimento back-end. O sistema permite cadastrar time, alterar, deletar e listar.
@@ -55,4 +52,3 @@ docker-compose build
 
 Este software foi criado apenas para fins de estudo. Sinta-se à vontade para experimentar. 
 
-</details>
